@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.6.0_1cd3f608acd2bfd502d10e353bd7908808e075e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_d21b9104531f55b477cce9e719d91d026a560463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_776bc3aec286fd00420e4d88b06a0b89db9715d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_dc6892d900eaeedfe7aae7abce5600cb09bce233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_55645a86b2721b33047d63f059d981a068ae3de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_3d6a67ad67e45785ee1b9c830bfca46b16036b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_de23ab3d1ea9d83637cd611bab0622390fa11fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_a0ba9af338721851e1834dd5f7f0162edc11448a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_8544b9a9c6eec42f2318429629a9dc3090d48949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_fa22b6b0ede89c4dc4e99fc4147f0d794fe1d92b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_1a7c47fc47c22b337d755bbeb392b2396fe97c50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_cf08596825a981c6faae6560961c79681d279566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_5fc2e9fc13d00383fc2efba986f4dde74a39c25d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_cbb25d09ff5674aba7150362a279ba4e72093646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_dd144dcbd99f6abee8e939ddba40dcc70d91ab64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.0_e829cfb725659ff5df2ba6dec013900675ee87ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_0705b3a09e32411c21e82c1dc9af9e38b9241670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_149333a98a63021977ad08f8029025f82475275e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_aac3c4074a9abb917b22f9762bd3b9f5c54dd1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_667f859ee481440e3a5a07b5c68aeb62de516f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_080caf9d74a9602054a7313db66a168f641c05e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.4.0_63de17657b654a8e6a9fb5e6b9483a755fc3f2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_8236dcac65b7b27d855c300b3514a26348115c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_2aba71b5345fd958eafd1b026a4876977632c452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.6.0_f9e94e33386f3009796cb99fce79e381027a3dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_0a8e7401162098c2f07c6a1f583c4e61e34def59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_80c70d49d32e1665f9ea6e3220a24660847f10ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_e84e0d90aef6d7ec79243f8429ecd8709a4a0e21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-storage-0.6.0_8dc5a4fbb07d7956d7980610cc072bce470ef354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.0_fce04031d19421522234c9e887f69a2a12357991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_7016fa198527458f81b8fa0446a275c932cfeefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_97027d949618d3f29b1394eea2bf0c0514a4394d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6e736773f6f89df9d32e260b8612deaaf7a49e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_394859d52405fe0ac1b10722f0941d429acba3ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pest/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/pest/Android/Chatszar/ChatBase/app/build/intermediates/pre-dexed/debug/glide-3.7.0_0770b12d2f2ccd024c752e0b23b4c940cf7a133d.jar" />
+    </item>
+
+</items>

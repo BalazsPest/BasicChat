@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026292402188",
+    "firebase_url": "https://chatbase-30274.firebaseio.com",
+    "project_id": "chatbase-30274",
+    "storage_bucket": "chatbase-30274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026292402188:android:292773ee7dce24d6",
+        "android_client_info": {
+          "package_name": "com.android.pest.chatbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026292402188-79kflpmubh86dgmk7t97dp724cm7mqdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.pest.chatbase",
+            "certificate_hash": "489422ff5730ef8a1f5ff03da459d4c57dacbd29"
+          }
+        },
+        {
+          "client_id": "1026292402188-p9kn329o7hugs55vjpqaf1utr5gd6075.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHesXJZTWfMhqlIF_GFGoERql8AW5-Wvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026292402188-p9kn329o7hugs55vjpqaf1utr5gd6075.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
